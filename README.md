@@ -8,9 +8,9 @@
 <h2> <img src="64rdrjmesq761.gif" alt="icono" style="vertical-align: middle; width: 35px;"> Sobre mí</h2>
 - Soy estudiante de primer año del ciclo formativo de Desarrollo de Aplicaciones Web (DAW) 💻  <br>
 - Actualmente estoy obteniendo experiencia con algunos entornos, principalmente VSCODE y derivados de JetBrains (IntelIj y DataGrip) 📚  <br>
-- El principal lenguaje en el apartado back-end que estoy aprendiendo son Kotlin  <br> ⌨️🖱️
-- En cuanto al apartado de front, estoy aprendiendo a utilizar Html, Css y JavaScrypt  <br> 🔍
-- Como Sistema Gestor de Base de Datos utilizo MySQL 🔨  <br>
+- El principal lenguaje en el apartado back-end que estoy aprendiendo son Kotlin ⌨️🖱️ <br>
+- En cuanto al apartado de front, estoy aprendiendo a utilizar Html, Css y JavaScrypt 🔍  <br> 
+- Como Sistema Gestor de Base de Datos utilizo MySQL 🔨 <br> 
 - Mi enfoque es aprender de manera práctica, enfrentándome a nuevos retos y ampliando mis conocimientos a través de proyectos y pruebas ✏️📕  <br>
 - Estoy en constante búsqueda de mejorar mis habilidades y compartir mis avances en GitHub. 📽️ <br>
 
