@@ -2,7 +2,7 @@
   <h1>Mi Perfil</h1>
   
   <h2>Herramientas que uso</h2>
-  <img src="imagen_2025-02-22_161540971.png" alt="foto" style="width: 200px; margin: 10px;">
+  <img src="imagen_2025-02-22_161540971.png" alt="foto" style="width: 500px; margin: 10px;">
   
   
   <h2>Sobre mí</h2>
