@@ -5,6 +5,11 @@
 <a href="pzuilarmenteros@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
 </a>
+
+<h2>Sobre mí</h2>
+- 
+
+
 <h3 align="center">Tecnologías que uso<h3>
 <p align="center">
   <a href="https://skillicons.dev">
