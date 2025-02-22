@@ -33,7 +33,7 @@
 <h3 align="center">¡Contacta conmigo aquí!<h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord, gmail" />
+    <img src="https://skillicons.dev/icons?i=discord,gmail" />
   </a>
 </p>
 
