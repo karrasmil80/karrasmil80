@@ -5,12 +5,9 @@
 <p class="mi-clase">Soy estudiante de primer año del ciclo formativo de Desarrollo de Aplicaciones Web (DAW) en grado superior. Me encuentro en una etapa de aprendizaje práctico, enfrentándome a diversos desafíos para adquirir nuevas habilidades en el mundo del desarrollo de software. Mi enfoque es mejorar constantemente, trabajando en proyectos y colaborando en la comunidad de código abierto. Uso herramientas como IntelliJ IDEA, VSCode y DataGrip, y tengo un interés especial en la gestión de código y las bases de datos. Busco siempre expandir mis conocimientos y crecer como profesional.</p>
 <h2>Actualmente</h2>
 <ul class="mi-clase">
-  <li>Soy estudiante de primer año del ciclo formativo de Desarrollo de Aplicaciones Web (DAW) 💻</li>
-  <li>Actualmente estoy obteniendo experiencia con algunos entornos, principalmente VSCODE y derivados de JetBrains (IntelIj y DataGrip)</li>
-  <li>El principal lenguaje en el apartado back-end que estoy aprendiendo son Kotlin</li>
+  <li> Estoy aprendiendo Kotlin en el apartado de back-end</li>
   <li>En cuanto al apartado de front, estoy aprendiendo a utilizar Html, Css y JavaScrypt</li>
-  <li>Como Sistema Gestor de Base de Datos utilizo MySQL</li>
-  <li>Mi enfoque es aprender de manera práctica, enfrentándome a nuevos retos y ampliando mis conocimientos a través de proyectos y pruebas</li>
+  <li>Me encuentro muy motivado para seguir aprendiendo</li>
   <li>Estoy en constante búsqueda de mejorar mis habilidades y compartir mis avances en GitHub.</li>
 </ul>
 <h3>Tecnologías que estoy aprendiendo</h3>
@@ -31,5 +28,3 @@
     <img src="https://skillicons.dev/icons?i=discord,gmail" />
   </a>
 </p>
-<h3>Actualmente</h3>
-<p class="mi-clase">Aquí puedes proporcionar información sobre tus actividades actuales o proyectos en los que estás trabajando.</p>
