@@ -2,7 +2,8 @@
   <h1>Mi Perfil</h1>
   
   <h2>Herramientas que uso</h2>
-  <img src="" alt="foto" style="width: 200px; margin: 10px;">
+  <img src="![imagen_2025-02-22_161540971](https://github.com/user-attachments/assets/314efced-736e-400a-880f-92d80e2587c0)
+" alt="foto" style="width: 200px; margin: 10px;">
   
   
   <h2>Sobre mí</h2>
