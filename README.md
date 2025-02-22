@@ -26,7 +26,7 @@
 
   <!-- Imagen alineada a la derecha -->
   <div style="flex: 1; text-align: right;">
-   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+   <img align="right" alt="GIF" height="160px" src="https://giphy.com/gifs/pc-hacker-desing-f3KwliaH4MLtli8z7D" />
   </div>
 </div>
 
