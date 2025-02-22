@@ -14,7 +14,7 @@
 <h3>Tecnologías que uso<h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kotlin,css,html,github" />
+    <img src="https://skillicons.dev/icons?i=git,kotlin,css,html,mysql,github" />
   </a>
 </p>
 <h3>Entornos que uso<h3>
@@ -23,13 +23,6 @@
     <img src="https://skillicons.dev/icons?i=vscode,idea " />
   </a>
 </p>
-<h3>Bases de Datos<h3>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
-
 <h3>¡Contacta conmigo aquí!<h3>
 <p>
   <a href="https://skillicons.dev">
