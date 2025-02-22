@@ -7,7 +7,7 @@
 </a>
 <h2> <img src="64rdrjmesq761.gif" alt="icono" style="vertical-align: middle; width: 35px;"> Sobre mí</h2>
 <ul>
-  <li>Soy estudiante de primer año del ciclo formativo de Desarrollo de Aplicaciones Web (DAW) 💻</li>
+  <li>Soy estudiante de primer año del ciclo formativo de Desarrollo de Aplicaciones Web (DAW)</li>
   <li>Actualmente estoy obteniendo experiencia con algunos entornos, principalmente VSCODE y derivados de JetBrains (IntelIj y DataGrip)</li>
   <li>El principal lenguaje en el apartado back-end que estoy aprendiendo son Kotlin</li>
   <li>En cuanto al apartado de front, estoy aprendiendo a utilizar Html, Css y JavaScrypt</li>
