@@ -13,6 +13,7 @@
 - Como Sistema Gestor de Base de Datos utilizo MySQL  
 - Mi enfoque es aprender de manera práctica, enfrentándome a nuevos retos y ampliando mis conocimientos a través de proyectos y pruebas  
 - Estoy en constante búsqueda de mejorar mis habilidades y compartir mis avances en GitHub.  
+
 <h3 align="center">Tecnologías que uso<h3>
 <p align="center">
   <a href="https://skillicons.dev">
