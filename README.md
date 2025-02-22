@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
 </a>
 <h2> <img src="64rdrjmesq761.gif" alt="icono" style="vertical-align: middle; width: 35px;"> Sobre mí</h2>
-- 
+- Soy estudiante de primer año del ciclo formativo de Desarrollo de Aplicaciones Web (DAW) 💻
 
 
 <h3 align="center">Tecnologías que uso<h3>
