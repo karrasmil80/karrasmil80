@@ -4,6 +4,7 @@
 <h2> <img src="64rdrjmesq761.gif" alt="icono" style="vertical-align: middle; width: 35px;">Sobre mí</h2>  
 <p class="mi-clase">Soy estudiante de primer año del ciclo formativo de Desarrollo de Aplicaciones Web (DAW) en grado superior. Me encuentro en una etapa de aprendizaje práctico, enfrentándome a diversos desafíos para adquirir nuevas habilidades en el mundo del desarrollo de software. Mi enfoque es mejorar constantemente, trabajando en proyectos y colaborando en la comunidad de código abierto. Uso herramientas como IntelliJ IDEA, VSCode y DataGrip, y tengo un interés especial en la gestión de código y las bases de datos. Busco siempre expandir mis conocimientos y crecer como profesional.</p>
 <h2>Actualmente</h2>
+ <img src="" />
 <ul class="mi-clase">
   <li> Estoy aprendiendo Kotlin en el apartado de back-end</li>
   <li>También estoy aprendiendo a utilizar Html, Css y JavaScrypt</li>
