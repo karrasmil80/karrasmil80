@@ -20,7 +20,7 @@
       <li>Estoy aprendiendo Kotlin en el apartado de back-end</li>
       <li>También estoy aprendiendo a utilizar Html, Css y JavaScript</li>
       <li>Me encuentro muy motivado para seguir aprendiendo</li>
-      <li>Estoy en constante búsqueda de mejorar mis habilidades y compartir mis avances en GitHub.</li>
+      <li>Estoy en constante búsqueda de mejorar mis habilidades</li>
     </ul>
   </div>
 
