@@ -8,7 +8,7 @@
   </div>
   <div style="flex: 1; text-align: right;">
     <h2>Actualmente</h2>
-    <img src="" style="vertical-align: middle; width: 100px;" />
+    <img src="a68e88e5d3ecfb89ccec6859420e0514.gif" style="vertical-align: middle; width: 100px;" />
     <ul class="mi-clase">
       <li>Estoy aprendiendo Kotlin en el apartado de back-end</li>
       <li>También estoy aprendiendo a utilizar Html, Css y JavaScrypt</li>
