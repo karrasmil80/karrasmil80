@@ -10,7 +10,7 @@
     </p>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img align="right" alt="GIF" height="160px" src="Work Trabajando GIF.gif" />
+    <img align="right" alt="GIF" height="250px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtrYnJnbWEyZXVnbmdsazgxbDVuaDJ0ODRiZGpkaXBzZjRrYzFqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4B9tlumUF5KrybOxVL/giphy.gif" />
   </div>
 </div>
 
