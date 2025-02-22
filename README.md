@@ -26,7 +26,7 @@
 
   <!-- Imagen alineada a la derecha -->
   <div style="flex: 1; text-align: right;">
-    <img src="a68e88e5d3ecfb89ccec6859420e0514.gif" style="width: 150px; height: auto;" />
+    <img align="right" alt="GIF" height="160px" src="" />
   </div>
 </div>
 
