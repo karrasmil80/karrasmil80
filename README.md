@@ -4,7 +4,7 @@
   <h2>Herramientas que uso</h2>
   <img src="https://img.icons8.com/?size=512&id=61466&format=png" alt="IntelliJ IDEA" style="width: 200px; margin: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"         alt="Visual Studio Code" style="width: 200px; margin: 10px;">
-  <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="GitHub" style="width: 200px; margin: 1px;">
+  <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="GitHub" style="width: 200px; margin-bottom: 10px;">
 
   
   <h2>Sobre mí</h2>
