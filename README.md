@@ -11,13 +11,13 @@
   <li>Mi enfoque es aprender de manera práctica, enfrentándome a nuevos retos y ampliando mis conocimientos a través de proyectos y pruebas</li>
   <li>Estoy en constante búsqueda de mejorar mis habilidades y compartir mis avances en GitHub.</li>
 </ul>
-<h3>Tecnologías que uso<h3>
+<h3>Tecnologías que estoy aprendiendo<h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kotlin,css,html,mysql,github" />
   </a>
 </p>
-<h3>Entornos que uso<h3>
+<h3>Entornos que utilizo<h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea " />
