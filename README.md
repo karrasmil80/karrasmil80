@@ -11,7 +11,7 @@
 - El principal lenguaje en el apartado back-end que estoy aprendiendo son Kotlin ⌨️🖱️ <br>
 - En cuanto al apartado de front, estoy aprendiendo a utilizar Html, Css y JavaScrypt 🔍  <br> 
 - Como Sistema Gestor de Base de Datos utilizo MySQL 🔨 <br> 
-- Mi enfoque es aprender de manera práctica, enfrentándome a nuevos retos y ampliando mis conocimientos a través de proyectos y pruebas ✏️📕  <br>
+- Me gusta aprender de manera práctica, enfrentándome a nuevos retos y ampliando mis conocimientos a través de proyectos y pruebas ✏️📕  <br>
 - Estoy en constante búsqueda de mejorar mis habilidades y compartir mis avances en GitHub. 📽️ <br>
 
 <h3 align="center">Tecnologías que uso<h3>
