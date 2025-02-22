@@ -21,4 +21,11 @@
     <img src="https://skillicons.dev/icons?i=vscode,idea " />
   </a>
 </p>
+<h3 align="center">Bases de Datos<h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
 
