@@ -2,7 +2,7 @@
   <h1>Mi Perfil</h1>
   
   <h2>Herramientas que uso</h2>
-  <img src="URL_DE_LA_IMAGEN_DE_INTELLIJ" alt="IntelliJ IDEA" style="width: 200px; margin: 10px;">
+  <img src="https://img.icons8.com/?size=512&id=61466&format=png" alt="IntelliJ IDEA" style="width: 200px; margin: 10px;">
   <img src="URL_DE_LA_IMAGEN_DE_VISUAL_STUDIO_CODE" alt="Visual Studio Code" style="width: 200px; margin: 10px;">
   
   <h2>Sobre mí</h2>
