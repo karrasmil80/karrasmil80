@@ -14,19 +14,6 @@
   </div>
 </div>
 
-<!-- Sección "Actualmente" con imagen alineada a la derecha -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Contenido de la izquierda -->
-  <div style="flex: 2; margin-left: 10px;">
-    <h2>Actualmente</h2>
-    <ul class="mi-clase">
-      <li>Estoy aprendiendo Kotlin en el apartado de back-end</li>
-      <li>También estoy aprendiendo a utilizar Html, Css y JavaScript</li>
-      <li>Me encuentro muy motivado para seguir aprendiendo</li>
-      <li>Estoy en constante búsqueda de mejorar mis habilidades</li>
-    </ul>
-  </div>
-</div>
 
 <h3>Tecnologías que estoy aprendiendo</h3>
 <p class="mi-clase">
