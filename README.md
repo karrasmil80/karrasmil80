@@ -6,13 +6,13 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
 </a>
 <h2> <img src="64rdrjmesq761.gif" alt="icono" style="vertical-align: middle; width: 35px;"> Sobre mí</h2>
-- Soy estudiante de primer año del ciclo formativo de Desarrollo de Aplicaciones Web (DAW) 💻
-- Actualmente estoy obteniendo experiencia con algunos entornos, principalmente VSCODE y derivados de JetBrains (IntelIj y DataGrip)
-- El principal lenguaje en el apartado back-end que estoy aprendiendo son Kotlin
-- En cuanto al apartado de front, estoy aprendiendo a utilizar Html, Css y JavaScrypt
-- Como Sistema Gestor de Base de Datos utilizo MySQL
-- Mi enfoque es aprender de manera práctica, enfrentándome a nuevos retos y ampliando mis conocimientos a través de proyectos y pruebas
-- Estoy en constante búsqueda de mejorar mis habilidades y compartir mis avances en GitHub.
+- Soy estudiante de primer año del ciclo formativo de Desarrollo de Aplicaciones Web (DAW) 💻  
+- Actualmente estoy obteniendo experiencia con algunos entornos, principalmente VSCODE y derivados de JetBrains (IntelIj y DataGrip)  
+- El principal lenguaje en el apartado back-end que estoy aprendiendo son Kotlin  
+- En cuanto al apartado de front, estoy aprendiendo a utilizar Html, Css y JavaScrypt  
+- Como Sistema Gestor de Base de Datos utilizo MySQL  
+- Mi enfoque es aprender de manera práctica, enfrentándome a nuevos retos y ampliando mis conocimientos a través de proyectos y pruebas  
+- Estoy en constante búsqueda de mejorar mis habilidades y compartir mis avances en GitHub.  
 <h3 align="center">Tecnologías que uso<h3>
 <p align="center">
   <a href="https://skillicons.dev">
