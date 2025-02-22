@@ -19,7 +19,7 @@
 <h3 align="center">Entornos que uso<h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode, " />
+    <img src="https://skillicons.dev/icons?i=vscode,idea " />
   </a>
 </p>
 
