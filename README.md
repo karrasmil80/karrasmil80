@@ -14,7 +14,7 @@
 <h3 align="center">Tecnologías que uso<h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kotlin,css,html" />
+    <img src="https://skillicons.dev/icons?i=git,kotlin,css,html,github" />
   </a>
 </p>
 <h3 align="center">Entornos que uso<h3>
