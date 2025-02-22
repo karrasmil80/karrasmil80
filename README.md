@@ -8,7 +8,7 @@
 <h3 align="center">Tecnologías que uso<h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kotlin" />
+    <img src="https://skillicons.dev/icons?i=git,kotlin,css,html" />
   </a>
 </p>
 
