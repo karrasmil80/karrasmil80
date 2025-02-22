@@ -4,7 +4,7 @@
   <div style="flex: 1; margin-left: 10px;">
     <h2><img src="64rdrjmesq761.gif" alt="icono" style="vertical-align: middle; width: 35px;"> Sobre mí</h2>
     <p class="mi-clase">
-      Soy estudiante de primer año del ciclo formativo de Desarrollo de Aplicaciones Web (DAW) en grado superior. Me encuentro en una etapa de aprendizaje práctico, enfrentándome a diversos desafíos para adquirir nuevas habilidades en el mundo del desarrollo de software. Mi enfoque es mejorar constantemente, trabajando en proyectos y colaborando en la comunidad de código abierto. Uso herramientas como IntelliJ IDEA, VSCode y DataGrip, y tengo un interés especial en la gestión de código y las bases de datos. Busco siempre expandir mis conocimientos y crecer como profesional.
+      Soy estudiante de primer año del ciclo formativo de Desarrollo de Aplicaciones Web (DAW) en grado superior. Me encuentro en una etapa de aprendizaje práctico, enfrentándome a diversos desafíos para adquirir nuevas habilidades en el mundillo de la informática. Mi enfoque es mejorar constantemente, trabajando en proyectos y colaborando en la comunidad de código abierto. Uso herramientas como IntelliJ IDEA, VSCode y DataGrip, y tengo un interés especial en la gestión de código y las bases de datos. Busco siempre expandir mis conocimientos y crecer como profesional.
   </div>
   <div style="flex: 1; text-align: right; margin-right: 10px;">
     <img align="right" alt="GIF" height="400px" width="500px" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtrYnJnbWEyZXVnbmdsazgxbDVuaDJ0ODRiZGpkaXBzZjRrYzFqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4B9tlumUF5KrybOxVL/giphy.gif />
