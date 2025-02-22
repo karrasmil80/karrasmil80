@@ -2,7 +2,7 @@
   <h1>Mi Perfil</h1>
   
   <h2>Herramientas que uso</h2>
-  <img src="imagen_2025-02-22_161540971.png" alt="foto" style="width: 500px; margin: 10px;">
+  <img src="imagen_2025-02-22_161540971.png" alt="foto" style="display: block; margin: 0 auto; width: 100%; max-width: 500px;">
   
   <h2>Sobre mí</h2>
   <p>Soy un desarrollador que utiliza IntelliJ IDEA y Visual Studio Code para mis proyectos. Me encanta trabajar en proyectos de software y explorar nuevas tecnologías.</p>
