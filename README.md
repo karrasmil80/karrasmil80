@@ -39,7 +39,7 @@
   </a>
 
   <!-- Enlace a Discord (servidor) -->
-  <a href="" target="_blank">
+  <a href="https://github.com/karrasmil80/karrasmil80/blob/main/README.md" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="github" />
   </a>
 </p>
