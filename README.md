@@ -20,7 +20,7 @@
 <h3>Tecnologías que estoy aprendiendo</h3>
 <p class="mi-clase">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kotlin,css,html,mysql,github" />
+    <img src="https://skillicons.dev/icons?i=git,kotlin,css,html,mysql" />
   </a>
 </p>
 
@@ -30,16 +30,15 @@
     <img src="https://skillicons.dev/icons?i=vscode,idea" />
   </a>
 </p>
-
 <h3>¡Contáctame aquí!</h3>
 <p class="mi-clase">
-  <!-- Enlace a Gmail -->
   <a href="mailto:pzuilarmenteros@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-
-  <!-- Enlace a Discord (servidor) -->
   <a href="https://github.com/karrasmil80/karrasmil80/blob/main/README.md" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="github" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
   </a>
 </p>
