@@ -20,7 +20,7 @@
 <h3>Tecnologías que estoy aprendiendo</h3>
 <p class="mi-clase">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kotlin,css,html,mysql,js" />
+    <img src="https://skillicons.dev/icons?i=git,kotlin,css,html,mysql" />
   </a>
 </p>
 
