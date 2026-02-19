@@ -23,7 +23,6 @@
     <img src="https://skillicons.dev/icons?i=git,kotlin,css,html,mysql,cs,mongo" />
   </a>
 </p>
-
 <h3>Entornos que utilizo</h3>
 <p class="mi-clase">
   <a href="https://skillicons.dev">
