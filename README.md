@@ -21,6 +21,7 @@
 <p class="mi-clase">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kotlin,css,html,mysql"/>
+    <img src="https://skillicons.dev/icons?i=cs,mongo"/>
   </a>
 </p>
 <h3>Entornos que utilizo</h3>
