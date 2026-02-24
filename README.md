@@ -1,5 +1,13 @@
 # [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hey,%20bienvenido!%20Soy%20Pablo%20Zuil%20👋&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
+![Profile views](https://komarev.com/ghpvc/?username=karrasmil80&color=red)
+
+<p>
+  <img src="https://img.shields.io/badge/Made%20with-♥️-pink"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-yellow"/>
+  <img src="https://img.shields.io/badge/Always-Learning-green"/>
+</p>
+
 
 ## Para concerme un poco mas:
 - 🔭 Actualmente estoy trabajando en mi Formacion Profesional (DAW).
@@ -29,5 +37,16 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=karrasmil80&show_icons=true&theme=radical" />
+## Más sobre mi perfil:
+
+[![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/karrasmil80?theme=nord&Ring=00BFFF&Border=157&Text=C9D1D9)](https://git.io/awesome-stats-card)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karrasmil80&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <i>"Los que mas luz tienen, siempre han pasado por alguien que intentó apagarlos."</i>
+</p>
+
+
+
 
