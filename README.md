@@ -1,4 +1,4 @@
-# [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hey,%20bienvenido!%20Soy%20Pablo%20Zuil%20👋&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+# [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hey,%20bienvenido!%20Soy%20Pablo%20Zuil%20👋&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 ![Profile views](https://komarev.com/ghpvc/?username=karrasmil80&color=red)
 
