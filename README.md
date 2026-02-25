@@ -29,7 +29,7 @@
   <a href="mailto:pzuilarmenteros@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://github.com/PablosDevelop" target="_blank">
+  <a href="https://github.com/karrasmil80" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="github" />
   </a>
   <a href="https://www.linkedin.com/in/pablo-zuil-armenteros-114941352/?trk=public-profile-join-page" target="_blank">
